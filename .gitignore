@@ -1,0 +1,26 @@
+# Environment and secrets
+.env
+*.local
+*.secret
+client-info.txt
+share-link.txt
+actual-config.yaml
+
+# Key material
+*.key
+*.pem
+*.crt
+
+# Private reports
+reports/*_PRIVATE*.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
