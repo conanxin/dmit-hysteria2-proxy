@@ -1,5 +1,7 @@
 # dmit-hysteria2-proxy
 
+> Languages: [English](./README.md) | [简体中文](./README.zh-CN.md)
+
 Open-source Hysteria 2 deployment toolkit for a DMIT VPS coexisting with 3X-UI / Xray Reality.
 
 ## What is this?
